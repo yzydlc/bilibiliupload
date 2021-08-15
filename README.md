@@ -51,7 +51,7 @@ sudo docker ps (找到你的imageId)
 sudo docker exec -it imageId /bin/bash     
 ```
 
-## 源码使用
+## 源 码 使 用
 * 下载源码: git clone https://github.com/ForgQi/bilibiliupload.git
 * 安装: `pip3 install -e .` 或者 `pip3 install -r requirements.txt`
 * 启动: `python3 -m biliup`
